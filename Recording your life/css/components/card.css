@@ -1,0 +1,19 @@
+.cards{
+	display: flow;
+	align-items: center;
+	justify-content: initial;
+	padding: 30px;
+}
+
+.cards img{
+	width: 150px;
+}
+
+.cards h3{
+	padding-right: initial;
+}
+
+.cards {
+	display: inline-flex;
+	flex-wrap: initial;
+}
